@@ -2,5 +2,10 @@
 
  PASTA
  KHEER
- Fries
  Biryani
+ 
+ #Fast foods
+ Burger
+ Fries
+ Broast
+ Twister
